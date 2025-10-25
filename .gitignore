@@ -397,3 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /CefSharp.WinForms.Direct3D.Example/obj.netcore
+.idea/

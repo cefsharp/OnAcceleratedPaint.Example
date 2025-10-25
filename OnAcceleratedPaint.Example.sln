@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CefSharp.WinForms.Direct3D.Example.netcore", "CefSharp.WinForms.Direct3D.Example\CefSharp.WinForms.Direct3D.Example.netcore.csproj", "{D4541C3D-E6F8-4174-9D7D-1B3D3CDBF94C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CefSharp.Offscreen.Direct3D.Example", "CefSharp.Offscreen.Direct3D.Example\CefSharp.Offscreen.Direct3D.Example.csproj", "{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D4541C3D-E6F8-4174-9D7D-1B3D3CDBF94C}.Release|x64.Build.0 = Release|x64
 		{D4541C3D-E6F8-4174-9D7D-1B3D3CDBF94C}.Release|x86.ActiveCfg = Release|x86
 		{D4541C3D-E6F8-4174-9D7D-1B3D3CDBF94C}.Release|x86.Build.0 = Release|x86
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Debug|x64.Build.0 = Debug|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Debug|x86.Build.0 = Debug|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Release|x64.ActiveCfg = Release|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Release|x64.Build.0 = Release|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Release|x86.ActiveCfg = Release|Any CPU
+		{42090FAF-A5A7-4C6F-A77F-8384AF2A65AF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
